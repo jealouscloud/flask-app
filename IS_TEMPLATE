@@ -1,0 +1,5 @@
+This file defines the current directory as being owned by a template.
+
+The purpose of this is to mark ~/.git as safe to delete, as this template will be used to create a new project.
+
+Once this file is deleted, it is no longer safe to remove ~/.git
